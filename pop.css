@@ -266,13 +266,20 @@
   iframe {
       position: absolute;
       top: 40px;
-      left: 350px;
+      left: 250px;
       width: 137%;
       height: 100%;
   }
 
 
-
+  .iframe1 {
+    position: absolute;
+    top: 40px;
+    left: 0px;
+    width: 90%;
+    height: 90%;
+    bottom: 10;
+}
  
  
  
